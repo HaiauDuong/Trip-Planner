@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 node_modules
 .DS_Store
+=======
+.DS_Store
+node_modules
+>>>>>>> ec9dba299a6a2930e6a016a257ca372a326a2351
 *.log

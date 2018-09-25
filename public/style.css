@@ -1,4 +1,5 @@
 * {
+<<<<<<< HEAD
     box-sizing: border-box;
   }
   
@@ -7,3 +8,13 @@
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: #C1B5AD;
   }
+=======
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #c1b5ad;
+}
+>>>>>>> ec9dba299a6a2930e6a016a257ca372a326a2351
