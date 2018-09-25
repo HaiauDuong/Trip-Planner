@@ -1,23 +1,20 @@
 {
-<<<<<<< HEAD
-  "name": "trip-planner",
-=======
   "name": "trip_planner",
->>>>>>> ec9dba299a6a2930e6a016a257ca372a326a2351
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-<<<<<<< HEAD
-=======
   "keywords": [],
->>>>>>> ec9dba299a6a2930e6a016a257ca372a326a2351
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^4.20.1",
     "webpack-cli": "^3.1.1"
+  },
+  "dependencies": {
+    "mapbox-gl": "^0.49.0"
   }
 }
